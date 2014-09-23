@@ -56,3 +56,32 @@ font-family: georgia;
 	width: 300px;
 	height: 140px;
 }
+body{
+		border-style: solid;
+		border-color: black;
+		border-width: medium;
+		background-color: beige;
+	}
+	.border{
+		border-style: solid;
+		border-color:black;
+		border-width:3px;
+		margin-right: 50px;
+		margin-left: 50px;
+		line-height: 19px;
+	text-align: left;	
+	padding-right: auto;
+	margin-right: 60px;
+	margin-left: 60px;
+	font-family: georgia;
+	}
+	#onion{
+		margin-left: 300px;
+		width:150px;
+		height:100px;
+	}
+	.inline li{
+		display: inline-block;
+		color:red;
+		padding: 20px
+
